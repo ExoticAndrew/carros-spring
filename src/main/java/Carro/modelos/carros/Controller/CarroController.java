@@ -1,5 +1,8 @@
-package Carro.modelos.carros;
+package Carro.modelos.carros.Controller;
 
+import Carro.modelos.carros.Model.Carro;
+import Carro.modelos.carros.Dto.CarroResponseDto;
+import Carro.modelos.carros.Service.CarroService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

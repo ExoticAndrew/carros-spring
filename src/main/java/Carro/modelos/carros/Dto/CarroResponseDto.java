@@ -1,4 +1,4 @@
-package Carro.modelos.carros;
+package Carro.modelos.carros.Dto;
 
 import lombok.Data;
 

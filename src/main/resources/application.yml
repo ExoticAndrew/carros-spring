@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://dpg-d0ieq3je5dus73drhev0-a.oregon-postgres.render.com:5432/carrinho
-    username: andrew
-    password: 8crJLn27XS4U87m4EjrPt67ulV26L3eb
+    username: ${db_username}
+    password: ${db_senha}
 
     driver-class-name: org.postgresql.Driver
   jpa:

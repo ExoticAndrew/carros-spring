@@ -1,5 +1,7 @@
-package Carro.modelos.carros;
+package Carro.modelos.carros.Service;
 
+import Carro.modelos.carros.Model.Carro;
+import Carro.modelos.carros.Repository.CarroRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

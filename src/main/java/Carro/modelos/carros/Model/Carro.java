@@ -1,4 +1,4 @@
-package Carro.modelos.carros;
+package Carro.modelos.carros.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
